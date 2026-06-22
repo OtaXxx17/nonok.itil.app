@@ -1,0 +1,10 @@
+{
+  "name": "nonok-bau",
+  "version": "1.0.0",
+  "displayName": "Nonok bau",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  }
+}
